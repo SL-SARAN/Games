@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pistol Animated
+* source:	https://sketchfab.com/3d-models/pistol-animated-f4d14fe2e7d94070afe730ab99458714
+* author:	DJMaesen (https://sketchfab.com/bumstrum)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pistol Animated" (https://sketchfab.com/3d-models/pistol-animated-f4d14fe2e7d94070afe730ab99458714) by DJMaesen (https://sketchfab.com/bumstrum) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
